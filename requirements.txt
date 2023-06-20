@@ -1,0 +1,12 @@
+protobuf>=3.19.5,<3.20.1
+transformers==4.27.1
+cpm_kernels
+torch>=1.10
+gradio
+mdtex2html
+sentencepiece
+sse-starlette
+asyncio
+aiohttp_sse_client
+sseclient
+requests

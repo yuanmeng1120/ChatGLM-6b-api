@@ -1,0 +1,5 @@
+chatglm-6b
+chatglm_6b
+__pypackages__/
+__pycache__/
+.idea/
